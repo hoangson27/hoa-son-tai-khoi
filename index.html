@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f3eee5">
+  <title>Hoa Sơn Reader</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body data-theme="sepia">
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand-row">
+        <div class="brand">
+          <strong>Hoa Sơn</strong>
+          <span id="countText">Đang tải</span>
+        </div>
+        <div class="quick-actions">
+          <button id="fontDown" type="button" title="Giảm cỡ chữ" aria-label="Giảm cỡ chữ">A-</button>
+          <button id="fontUp" type="button" title="Tăng cỡ chữ" aria-label="Tăng cỡ chữ">A+</button>
+          <button id="themeButton" type="button" title="Đổi nền" aria-label="Đổi nền">◐</button>
+        </div>
+      </div>
+
+      <div class="control-grid">
+        <select id="chapterSelect" aria-label="Chọn chương"></select>
+        <input id="searchInput" type="search" placeholder="Tìm chương" autocomplete="off">
+        <select id="fontFamily" aria-label="Chọn font chữ">
+          <option value="segoe">Segoe UI</option>
+          <option value="arial">Arial</option>
+          <option value="times">Times</option>
+          <option value="georgia">Georgia</option>
+        </select>
+      </div>
+      <div class="progress"><div id="progressBar"></div></div>
+      <div id="hitList" class="hit-list"></div>
+    </header>
+
+    <main class="reader-wrap">
+      <article class="reader">
+        <p id="chapterSource" class="source"></p>
+        <h1 id="chapterTitle"></h1>
+        <div id="pageText" class="page">Đang tải...</div>
+      </article>
+    </main>
+
+    <nav class="bottom-nav" aria-label="Điều hướng trang">
+      <button id="prevPage" type="button" aria-label="Trang trước">‹</button>
+      <div id="pageMeta" class="page-meta">...</div>
+      <button id="nextPage" type="button" aria-label="Trang sau">›</button>
+    </nav>
+  </div>
+  <script src="assets/app.js"></script>
+</body>
+</html>
