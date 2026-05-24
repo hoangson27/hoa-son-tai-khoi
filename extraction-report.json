@@ -1,0 +1,663 @@
+{
+  "generatedAt": "2026-05-24T15:33:23.660Z",
+  "sourceDir": "Hoa Sơn_",
+  "sourceFileCount": 1367,
+  "outputChapterCount": 1368,
+  "firstChapter": 401,
+  "lastChapter": 1830,
+  "missing": [
+    1718,
+    1745,
+    1752
+  ],
+  "duplicateNumbers": [
+    {
+      "number": 450,
+      "sources": [
+        "Hoa Sơn_/401-600/450.docx",
+        "Hoa Sơn_/401-600/450(1).docx"
+      ]
+    },
+    {
+      "number": 1534,
+      "sources": [
+        "Hoa Sơn_/1500-1700 HSTK-20240607T044249Z-001/1500-1700 HSTK/1533.docx",
+        "Hoa Sơn_/1500-1700 HSTK-20240607T044249Z-001/1500-1700 HSTK/1534.docx"
+      ]
+    },
+    {
+      "number": 1572,
+      "sources": [
+        "Hoa Sơn_/1500-1700 HSTK-20240607T044249Z-001/1500-1700 HSTK/1572.docx",
+        "Hoa Sơn_/1700 - 2000/1572.docx"
+      ]
+    }
+  ],
+  "rangeFiles": [
+    {
+      "source": "Hoa Sơn_/1700 - 2000/Hoa-Sơn-Tái-Khởi-1764-1830.docx",
+      "rangeStart": 1764,
+      "rangeEnd": 1830,
+      "chars": 808990,
+      "note": "Range file did not contain chapter markers, so it was exported as one combined entry."
+    }
+  ],
+  "warnings": [
+    {
+      "source": "Hoa Sơn_/401-600/478.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/479.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/534.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/552.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/553 .pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/554.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/555.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/556.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/557.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/558.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/559.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/560.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/561.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/562.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/563.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/564.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/565.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/566.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/567.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/568.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/569.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/570.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/571.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/572.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/577.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/578.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/579.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/580.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/581.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/582.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/583.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/584.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/585.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/586.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/587.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/588.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/589.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/590.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/591.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/592.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/593.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/594.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/595.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/598.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/599.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/401-600/600.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/605.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/606.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/608.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/613.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/614.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/615.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/618.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/619.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/620.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/621.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/622.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/623.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/624.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/627.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/628.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/629.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/630.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/631.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/632.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/633.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/634.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/635.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/636.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/638.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/648.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/649.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/650.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/651.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/793.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/794.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/795.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/601-800/796.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/802.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/803.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/804.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/805.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/806.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/807.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/808.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/809.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/810.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/811.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/813.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/800-1000/814.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1010.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1011.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1012.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1013.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1014.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1015.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1016.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1019.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1020.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1030.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1031.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1032.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1034.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1035.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1036.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1039.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1040.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1041.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1042.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1043.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1044.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1046.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1047.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1048.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1054.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1055.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1056.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1057.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1058.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1061.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1062.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1063.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    },
+    {
+      "source": "Hoa Sơn_/1001-1200/1064.pdf",
+      "reason": "No extractable text or very short extracted text.",
+      "extractedChars": 0
+    }
+  ],
+  "failures": []
+}

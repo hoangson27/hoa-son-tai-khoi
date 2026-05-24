@@ -1,0 +1,13 @@
+node_modules/
+tmp-ocr/
+
+*.log
+*.err.log
+*.traineddata
+*.rar
+
+# Raw/source exports and legacy generated bundles.
+Hoa Sơn_/
+Hoa_Son_gop_toan_bo.txt
+Hoa_Son_reader.html
+
